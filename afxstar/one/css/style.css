@@ -104,7 +104,7 @@ h5.ph-no{
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 1.5em;
 	line-height: 70px;
-	padding: 35px 20px 70px;
+	padding: 35px 20px 35px;
 	-webkit-transition: color .15s;
 	-moz-transition: color .15s;
 	-o-transition: color .15s;
@@ -122,7 +122,7 @@ h5.ph-no{
   background-color: #fafafa;
   text-align: left;
   position: absolute;
-  top: 55px;
+  top: 20px;
   left: 50%;
   margin-left: -90px;
   width: 180px;
